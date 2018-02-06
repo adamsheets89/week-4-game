@@ -1,0 +1,32 @@
+.container {
+    background-color: beige;
+
+}
+
+#target-score {
+    padding: 50px;
+    background-color:rgb(235, 231, 231);
+    float:  left;
+}
+
+#your-score {
+    padding: 50px;
+    background-color: rgb(235, 231, 231);
+    float: left;
+}
+
+.scoreboard {
+    background-color: aquamarine;
+    float: left;
+    padding: 20px;
+    margin-left: 10px;
+}
+
+#running-tally {
+    padding: 20px;
+}
+
+#directions {
+    color: black;
+    padding: 10px;
+}
